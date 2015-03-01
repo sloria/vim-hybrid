@@ -1,3 +1,8 @@
+**About this fork**: This is the same as @wong's original hybrid theme in every regard except that line numbers are
+a lighter gray, which makes them much easier to read.
+
+-------------------------------
+
 # hybrid.vim
 
 A dark colourscheme for Vim that combines the:

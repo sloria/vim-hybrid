@@ -1,7 +1,7 @@
-" File:       hybrid.vim
-" Maintainer: Andrew Wong (w0ng)
-" URL:        https://github.com/w0ng/vim-hybrid
-" Modified:   27 Jan 2013 07:33 AM AEST
+" File:       hybrid-sl.vim
+" Maintainer: Steven Loria (sloria); Original theme by Andrew Wong (w0ng)
+" URL:        https://github.com/sloria/vim-hybrid
+" Modified:   01 Mar 2015 03:16 PM EST
 " License:    MIT
 
 " Description:"{{{
@@ -71,7 +71,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "hybrid"
+let colors_name = "hybrid-sl"
 
 "}}}
 " GUI And Cterm Palettes:"{{{
